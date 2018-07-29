@@ -1,0 +1,42 @@
+Assembly	smartdenovo	minimap2_miniasm_nanopolish
+# contigs (>= 0 bp)	2	1
+# contigs (>= 1000 bp)	2	1
+# contigs (>= 5000 bp)	2	1
+# contigs (>= 10000 bp)	2	1
+# contigs (>= 25000 bp)	2	1
+# contigs (>= 50000 bp)	2	1
+Total length (>= 0 bp)	4722246	4194291
+Total length (>= 1000 bp)	4722246	4194291
+Total length (>= 5000 bp)	4722246	4194291
+Total length (>= 10000 bp)	4722246	4194291
+Total length (>= 25000 bp)	4722246	4194291
+Total length (>= 50000 bp)	4722246	4194291
+# contigs	2	1
+Largest contig	4558181	4194291
+Total length	4722246	4194291
+Reference length	4641652	4641652
+Reference GC (%)	50.79	50.79
+N50	4558181	4194291
+NG50	4558181	4194291
+N75	4558181	4194291
+NG75	4558181	4194291
+L50	1	1
+LG50	1	1
+L75	1	1
+LG75	1	1
+# misassemblies	0	0
+# misassembled contigs	0	0
+Misassembled contigs length	0	0
+# local misassemblies	0	0
+# unaligned mis. contigs	1	1
+# unaligned contigs	0 + 2 part	0 + 1 part
+Unaligned length	4663191	4188266
+Genome fraction (%)	1.327	0.135
+Duplication ratio	0.959	0.960
+# N's per 100 kbp	0.00	0.00
+# mismatches per 100 kbp	3479.63	3281.82
+# indels per 100 kbp	3981.36	3807.55
+# genes	61 + 5 part	5 + 2 part
+Largest alignment	33465	2414
+Total aligned length	59055	6025
+NGA50	-	-

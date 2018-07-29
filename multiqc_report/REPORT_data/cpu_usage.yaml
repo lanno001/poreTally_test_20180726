@@ -1,0 +1,14 @@
+minimap2_miniasm_nanopolish:
+  I/O in (MB/s): 3669.06
+  I/O out (MB/s): 3255.2
+  Wall time: 0:19:01
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 14044.48
+  peak USS (MB): 14044.21
+smartdenovo:
+  I/O in (MB/s): 516.51
+  I/O out (MB/s): 516.61
+  Wall time: '5:25:43'
+  mean CPU load (MB): 0.0
+  peak PSS (MB): 1486.73
+  peak USS (MB): 1486.66

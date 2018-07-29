@@ -1,0 +1,18 @@
+minimap2:
+  deletions:
+    absolute: 73144266
+    relative: 7.988861960945911
+  insertions:
+    absolute: 19618119
+    relative: 2.142703087955114
+  matches:
+    absolute: 777876825
+    relative: 84.96018782311494
+  mismatches:
+    absolute: 44938833
+    relative: 4.908247127984042
+nanostats:
+  Mean read length: 34732.5
+  Mean read quality: 10.7
+  Median read length: 21866.5
+  Median read quality: 11.2

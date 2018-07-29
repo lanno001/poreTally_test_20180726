@@ -1,0 +1,88 @@
+minimap2_miniasm_nanopolish:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 1.0
+  '# contigs (>= 0 bp)': 1.0
+  '# contigs (>= 1000 bp)': 1.0
+  '# contigs (>= 10000 bp)': 1.0
+  '# contigs (>= 25000 bp)': 1.0
+  '# contigs (>= 5000 bp)': 1.0
+  '# contigs (>= 50000 bp)': 1.0
+  '# genes': 5.0
+  '# genes_partial': 2.0
+  '# indels per 100 kbp': 3807.55
+  '# local misassemblies': 0.0
+  '# misassembled contigs': 0.0
+  '# misassemblies': 0.0
+  '# mismatches per 100 kbp': 3281.82
+  '# unaligned contigs': 0.0
+  '# unaligned contigs_partial': 1.0
+  '# unaligned mis. contigs': 1.0
+  Duplication ratio: 0.96
+  Genome fraction (%): 0.135
+  L50: 1.0
+  L75: 1.0
+  LG50: 1.0
+  LG75: 1.0
+  Largest alignment: 2414.0
+  Largest contig: 4194291.0
+  Misassembled contigs length: 0.0
+  N50: 4194291.0
+  N75: 4194291.0
+  NG50: 4194291.0
+  NG75: 4194291.0
+  NGA50: '-'
+  Reference GC (%): 50.79
+  Reference length: 4641652.0
+  Total aligned length: 6025.0
+  Total length: 4194291.0
+  Total length (>= 0 bp): 4194291.0
+  Total length (>= 1000 bp): 4194291.0
+  Total length (>= 10000 bp): 4194291.0
+  Total length (>= 25000 bp): 4194291.0
+  Total length (>= 5000 bp): 4194291.0
+  Total length (>= 50000 bp): 4194291.0
+  Unaligned length: 4188266.0
+smartdenovo:
+  '# N''s per 100 kbp': 0.0
+  '# contigs': 2.0
+  '# contigs (>= 0 bp)': 2.0
+  '# contigs (>= 1000 bp)': 2.0
+  '# contigs (>= 10000 bp)': 2.0
+  '# contigs (>= 25000 bp)': 2.0
+  '# contigs (>= 5000 bp)': 2.0
+  '# contigs (>= 50000 bp)': 2.0
+  '# genes': 61.0
+  '# genes_partial': 5.0
+  '# indels per 100 kbp': 3981.36
+  '# local misassemblies': 0.0
+  '# misassembled contigs': 0.0
+  '# misassemblies': 0.0
+  '# mismatches per 100 kbp': 3479.63
+  '# unaligned contigs': 0.0
+  '# unaligned contigs_partial': 2.0
+  '# unaligned mis. contigs': 1.0
+  Duplication ratio: 0.959
+  Genome fraction (%): 1.327
+  L50: 1.0
+  L75: 1.0
+  LG50: 1.0
+  LG75: 1.0
+  Largest alignment: 33465.0
+  Largest contig: 4558181.0
+  Misassembled contigs length: 0.0
+  N50: 4558181.0
+  N75: 4558181.0
+  NG50: 4558181.0
+  NG75: 4558181.0
+  NGA50: '-'
+  Reference GC (%): 50.79
+  Reference length: 4641652.0
+  Total aligned length: 59055.0
+  Total length: 4722246.0
+  Total length (>= 0 bp): 4722246.0
+  Total length (>= 1000 bp): 4722246.0
+  Total length (>= 10000 bp): 4722246.0
+  Total length (>= 25000 bp): 4722246.0
+  Total length (>= 5000 bp): 4722246.0
+  Total length (>= 50000 bp): 4722246.0
+  Unaligned length: 4663191.0

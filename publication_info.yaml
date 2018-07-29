@@ -1,0 +1,6 @@
+authors: Carlos de Lannoy, data from data from [Loman Labs](http://lab.loman.net/2017/03/09/ultrareads-for-nanopore/)
+basecaller: Albacore 2.2.7
+flowcell: FLO-MIN106
+kit: SQK-LSK108
+species_name: Escherichia coli
+taxid: 562

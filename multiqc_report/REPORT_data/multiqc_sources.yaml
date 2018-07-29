@@ -1,0 +1,9 @@
+Jellyfish:
+  all_sections:
+    minimap2_miniasm_nanopolish.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180726/analysis/summary/jellyfish/minimap2_miniasm_nanopolish.count
+    reference.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180726/analysis/summary/jellyfish/reference.count
+    smartdenovo.count: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180726/analysis/summary/jellyfish/smartdenovo.count
+QUAST:
+  all_sections:
+    minimap2_miniasm_nanopolish: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180726/analysis/summary/quast/report.tsv
+    smartdenovo: /mnt/nexenta/lanno001/nobackup/poreTally_ecoli_20180726/analysis/summary/quast/report.tsv

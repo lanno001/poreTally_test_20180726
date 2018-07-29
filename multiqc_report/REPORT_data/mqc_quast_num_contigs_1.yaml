@@ -1,0 +1,4 @@
+minimap2_miniasm_nanopolish:
+  '>= 50000 bp': 1.0
+smartdenovo:
+  '>= 50000 bp': 2.0
